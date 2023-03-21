@@ -4,9 +4,6 @@
   <a href="https://komarev.com/ghpvc/?username=shaomg">
     <img src="https://komarev.com/ghpvc/?username=shaomg" alt="shaomg" />
   </a>
-  <a href="http://twitter.com/Seiriryu">
-    <img height="20" src="https://img.shields.io/twitter/follow/Seiriryu?label=Twitter&logo=twitter&style=flat" />
-  </a>
   <a href="https://github.com/shaomg">
     <img height="20" src="https://img.shields.io/github/followers/shaomg?label=follow&logo=github&style=flat" />
   </a>
@@ -41,8 +38,8 @@
 ---
 
 <p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaomg&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shaomg&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaomg&layout=compact&count_private=true&show_icons=true&show_icons=true" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=shaomg&count_private=true&show_icons=true&show_icons=true&" />
 </p>
 
 [![](https://github-profile-trophy.vercel.app/?username=shaomg&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
